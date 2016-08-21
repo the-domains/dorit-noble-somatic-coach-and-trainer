@@ -1,3 +1,4 @@
+layout_spectrum: 0.8458182120230049
 typography_spectrum: 0.12892075115814805
 color:
   brandStrength: 0.41239498066715896
@@ -5,23 +6,9 @@ color:
   saturation: 0.14226227905601263
   rhythmicContrast: 0.9940850418061018
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b4cb5ff-c6ed-4ab9-8e2d-4e7b3b42878e.png
-layout_spectrum: 0.8458182120230049
-author:
-  name: Dorit Noble
-  email: dorit@doritnoble.com
-  url: 'http://www.doritnoble.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ad7527b-09e5-43a8-8a12-41cacefc000f.jpg
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Dorit Noble - somatic coach and trainer
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14499175-eaf1-4c93-baaf-1ab493fffb5a.jpg
-title: Dorit Noble - somatic coach and trainer
-description: coaching leadership systems
